@@ -22,4 +22,4 @@ para gestión de forks?
 14. ¿Cómo puedo inspeccionar el historial de commits (por ejemplo, git log, git
 diff, git show)?
 
-# TITULO
+# SOLUCIÓN
